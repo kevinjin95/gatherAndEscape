@@ -1,0 +1,37 @@
+{
+    "activeFile": "LVL1.tsx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "LVL1.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "sans titre.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 458.6666666666667,
+                "y": 193.33333333333337
+            }
+        },
+        "xingxinlogo2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/Kevin/Documents/cours_ynov/piscine-js-22-23/projet_js_vertical_game/maps",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "sans titre.tmx",
+        "LVL1.tsx",
+        "xingxinlogo2.tsx"
+    ],
+    "project": "LVL1.tiled-project",
+    "recentFiles": [
+        "sans titre.tmx",
+        "xingxinlogo2.tsx",
+        "LVL1.tsx"
+    ],
+    "resizeMap.removeObjects": false
+}
